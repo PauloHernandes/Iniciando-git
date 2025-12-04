@@ -1,3 +1,4 @@
 # Iniciando-git
-Repositório para iniciar estudo do git...
+
+Repositório para iniciar estudo do git
 
